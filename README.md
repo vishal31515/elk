@@ -33,9 +33,9 @@ git clone https://github.com/vishal31515/elk.git
 ```
 docker-compose up --build
 ```
-- Elasticsearch runs on [http://localhost:9200]
-- Logstah runs on [http://localhost:5044]
-- Kibana service runs on [http://localhost:5601]
+- Elasticsearch runs on (http://localhost:9200)
+- Logstah runs on (http://localhost:5044)
+- Kibana service runs on (http://localhost:5601)
 
 
 ### Customize Config
