@@ -12,7 +12,7 @@ ELK with Filebeat and Docker - Simple, Open Source &amp; Easy way to file loggin
 - mylog -> filebeat -> logstash -> elasticsearch <- kibana
 
 
-## System Cofigurations
+## System Configurations
 - Minimum 8 GB RAM required.
 
 ## Usage
@@ -83,4 +83,7 @@ filter {
 }
 ```
 
-- [More about ELK stack](https://www.elastic.co/what-is/elk-stack)
+### Important links
+- (https://www.elastic.co/what-is/elk-stack)
+- (https://www.techchorus.net/blog/logging-from-flask-application-to-elasticsearch-via-logstash)
+- (https://www.guru99.com/elk-stack-tutorial.html)
