@@ -83,4 +83,4 @@ filter {
 }
 ```
 
-- [More about ELK] (https://www.elastic.co/what-is/elk-stack)
+- [More about ELK](https://www.elastic.co/what-is/elk-stack)
